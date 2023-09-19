@@ -9,7 +9,7 @@
 😄 🚴
 ______
 
-![NKUST](533313901.png "NKUST")
+![NKUST](logo.png "NKUST")
 
 - [ ] to do list
 - [X] 1st thing
