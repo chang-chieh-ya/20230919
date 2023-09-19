@@ -28,11 +28,11 @@ alert(s)
 
 ### Colons can be used to align columns.
 
-|      Tables   |      Are      |  cool |
-|:-------------:|:-------------:| -----:|
-|    col3 is    | Right-aligned | $1600 |
-|    col2 is    |   centered    |   $12 |
-| zebra stripes |    areneat    |    $1 |
+|   name  | Height |  weight |
+|:-------:|:------:| -------:|
+|   Amy   |   160  |    48   |
+|  Tony   |   180  |    60   |
+|  Banana |   150  |    45   |
 
 ---
 <p>There must be at least 3 dashes separating each header cell.
