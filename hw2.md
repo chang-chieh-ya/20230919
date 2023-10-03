@@ -13,9 +13,6 @@ gantt
     Task in sec      :2014-01-12  , 12d
     anther task      : 24d
 ```
-[更多關於 **mermaid** 語法 <i class="fa fa-external-link"></i>](http://mermaid-js.github.io/mermaid)
-&nbsp;
-&nbsp;
 
 ---
 
