@@ -18,6 +18,7 @@ gantt
 
 
 ## PERT/CPM圖
+```graphviz
 digraph {
 	node[shape=record];
 	rankdir="LR";
@@ -34,6 +35,7 @@ digraph {
     no4->no5
 }
 ```
+
 
 
 
