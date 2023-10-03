@@ -18,7 +18,9 @@ gantt
 
 
 ## PERT/CPM圖
+
 ```graphviz
+
 digraph {
 	node[shape=record];
 	rankdir="LR";
@@ -37,6 +39,6 @@ digraph {
 ```
 
 
-
+---
 
 # 關鍵路徑
